@@ -1,1 +1,1 @@
-I have edited this file.hello how are you doing?
+ checking merge.I have edited this file.hello how are you doing?
